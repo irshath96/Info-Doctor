@@ -1,0 +1,118 @@
+.footer {
+    padding-bottom: 10px;
+}
+
+.footer .copyright a {
+    font-weight: 600;
+}
+
+.lh-35 {
+    line-height: 35px;
+}
+
+.logo {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.logo h3 {
+    color: #8c5792;
+}
+
+.logo span {
+    color: #8c5792;
+}
+
+.widget .divider {
+    height: 3px;
+}
+
+.widget h4 {
+    color: #8c5792;
+}
+
+.widget .footer-menu a {
+    color: #6F8BA4;
+}
+
+.widget .footer-menu a:hover {
+    color: #e46828;
+}
+
+.footer-contact-block span {
+    font-weight: 400;
+    color: #6F8BA4;
+}
+
+.footer-contact-block i {
+    font-size: 20px;
+}
+
+.footer-btm {
+    border-top: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.footer-socials li a {
+    width: 45px;
+    height: 45px;
+    background: #8c5792;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    border-radius: 100%;
+    padding-top: 12px;
+}
+
+.widget-contact h6 {
+    font-weight: 500;
+    margin-bottom: 18px;
+}
+
+.widget-contact h6 i {
+    color: #e46828;
+}
+
+.subscribe {
+    position: relative;
+}
+
+.subscribe .form-control {
+    border-radius: 50px;
+    height: 60px;
+    padding-left: 25px;
+    border-color: #eee;
+}
+
+.subscribe .btn {
+    position: absolute;
+    right: 6px;
+    top: 6px;
+}
+
+.backtop {
+    position: fixed;
+    background: #e46828;
+    z-index: 9999;
+    display: inline-block;
+    right: 55px;
+    width: 60px;
+    height: 60px;
+    bottom: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    border-radius: 50px;
+}
+
+.backtop i {
+    color: #fff;
+    font-size: 20px;
+}
+
+.reveal {
+    transition: all .3s;
+    cursor: pointer;
+    opacity: 1;
+}
